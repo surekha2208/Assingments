@@ -1,0 +1,13 @@
+1.Normal, Wide, or Narrow,yes
+
+2. On the Page Layout tab, in the Page Setup group, click Background. Select the picture that you want to use for the sheet background, and then click Insert.
+
+3.The Excel Freeze Panes option allows you to lock your columns and/or rows so that when you scroll down or over to view the rest of your sheet, the column and/or row will remain on the screen.
+
+4.If you apply the Freeze Pane option of Excel freeze pane feature, it can freeze the row and column simultaneously at the same time.
+
+5.Print Area: We can select the print area using this option.
+Print Titles
+Print
+Page Order
+Print: Clicking on this option gives a command to the device to print the current Excel document using the default printer.

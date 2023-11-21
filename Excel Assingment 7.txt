@@ -1,0 +1,63 @@
+
+Answer 1:
+
+There are two ways to sum data in Excel:
+
+Use the AutoSum feature: Select the cells that you want to sum, and then click the AutoSum button in the Home tab. Excel will automatically add the values in the selected cells and display the sum in the cell below the range.
+Use the SUM function: Type the following formula into a cell:
+
+=SUM(range)
+
+where range is the range of cells that you want to sum. For example, to sum the values in cells A1:A10, you would use the following formula:
+
+
+=SUM(A1:A10)
+
+
+
+Answer2:
+
+To select multiple columns or rows in Excel, you can use the following steps:
+
+Select the first column or row that you want to select.
+Hold down the Ctrl key, and then select the other columns or rows that you want to select.
+To select a contiguous range of columns or rows, click the first column or row that you want to select, and then drag the mouse cursor to the last column or row that you want to select.
+
+
+Answer3:
+
+AutoFit is a feature in Excel that automatically resizes cells in a worksheet to accommodate different sized data without having to manually change the column width and row height.
+
+To use AutoFit, follow these steps:
+
+Select the columns or rows that you want to AutoFit.
+On the Home tab, in the Cells group, click Format.
+Under Visibility, click AutoFit.
+
+
+Answer4:
+
+To add rows or columns in Excel, follow these steps:
+
+Click where you want in your table to add a row or column.
+On the Layout tab, in the Cells group, click Insert.
+To add rows, click Insert Above or Insert Below. To add columns, click Insert Left or Insert Right.
+
+
+Answer5:
+
+To unhide rows or columns in Excel, follow these steps:
+
+On the Home tab, in the Cells group, click Format.
+Under Visibility, click Hide & Unhide.
+To unhide rows, click Unhide Rows. To unhide columns, click Unhide Columns.
+
+
+Answer6:
+
+AutoSum is a feature in Excel that automatically adds the values in a range of cells and displays the sum in the cell below the range.
+
+To use AutoSum, follow these steps:
+
+Select the cells that you want to sum.
+Click the AutoSum button in the Home tab.

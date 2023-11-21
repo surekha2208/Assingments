@@ -1,0 +1,52 @@
+Question 1: How many types of conditions are available in conditional formatting on Excel?
+
+Answer: There are 5 types of conditions available in conditional formatting on Excel:
+
+Highlight Cells Rules
+Top/Bottom Rules
+Data Bars
+Color Scales
+Icon Sets
+Question 2: How to insert border in Excel with Format Cells dialog?
+
+Answer: To insert a border in Excel with the Format Cells dialog, follow these steps:
+
+Select the cells that you want to add borders to.
+Click the Home tab.
+Click the arrow next to the Borders button, and then click More Borders.
+In the Format Cells dialog box, switch to the Border tab.
+Choose the line style and color that you want for the border.
+Click OK.
+Question 3: How to Format Numbers as Currency in Excel?
+
+Answer: To format numbers as currency in Excel, follow these steps:
+
+Select the cells that you want to format.
+Right-click the selected cells, and then click Format Cells.
+In the Format Cells dialog box, select the Number tab.
+In the Category list, select Currency.
+Enter the desired settings for the currency format.
+Click OK.
+Question 4: What are the steps to format numbers in Excel with the Percent style?
+
+Answer: To format numbers in Excel with the Percent style, follow these steps:
+
+Select the cells that you want to format.
+Right-click the selected cells, and then click Format Cells.
+In the Format Cells dialog box, select the Number tab.
+In the Category list, select Percentage.
+Enter the desired settings for the percentage format.
+Click OK.
+Question 5: What is a shortcut to merge two or more cells in excel?
+
+Answer: The shortcut to merge two or more cells in Excel is: ALT H+M+M.
+
+Question 6: How do you use text commands in Excel?
+
+Answer: To use text commands in Excel, follow these steps:
+
+Select the cells that you want to format as text.
+Right-click the selected cells, and then click Format Cells.
+In the Format Cells dialog box, select the Number tab.
+In the Category list, select Text.
+Click OK.

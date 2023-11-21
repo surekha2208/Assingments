@@ -1,0 +1,31 @@
+1. What does the dollar ($) sign do?
+The dollar ($) sign is used to create absolute cell references in Excel formulas. By using the dollar sign before the column and/or row reference, you can lock the reference in a formula so that it doesn't change when copied to other cells.
+
+2. How to Change the Reference from Relative to Absolute (or Mixed)?
+You can change the reference from relative to absolute (or mixed) by using the dollar sign. To create an absolute reference, use a dollar sign ($) before the column letter and/or row number. To create a mixed reference, use a dollar sign before either the column letter or row number.
+
+3. Explain the order of operations in Excel.
+The order of operations in Excel follows the acronym PEMDAS:
+1. Parentheses
+2. Exponents
+3. Multiplication and Division (from left to right)
+4. Addition and Subtraction (from left to right)
+Formulas in Excel are calculated based on this order of operations.
+
+4. What, according to you, are the top 5 functions in Excel, and write a basic syntax for any two?
+a. COUNTIF(): =COUNTIF(range, criteria)
+b. SUMIF(): =SUMIF(range, criteria, sum_range)
+c. EXACT(): =EXACT(text1, text2)
+d. RANK(): =RANK(number, ref, [order])
+e. VLOOKUP(): =VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+
+5. When would you use the SUBTOTAL function?
+The SUBTOTAL function is useful when you want to calculate totals or perform other aggregate functions on a filtered range of data. It can be used to ignore rows that are hidden or excluded by a filter and calculate subtotals for specific categories.
+
+6. What is the syntax of the VLOOKUP function? Explain the terms in it.
+The syntax of the VLOOKUP function is as follows:
+=VLOOKUP(lookup_value, table_array, col_index_num, [range_lookup])
+- lookup_value: The value you want to look up in the first column of the table.
+- table_array: The range of cells that represents the table where the lookup value is located.
+- col_index_num: The column number in the table from which the matching value should be returned.
+- range_lookup: An optional argument that specifies whether the lookup should be an exact match (FALSE) or an approximate match (TRUE or omitted).

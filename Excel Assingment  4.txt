@@ -1,0 +1,35 @@
+Question 1: Under the Home tab, what ribbon grouping contains the Insert and Delete commands?
+
+Answer: The Insert and Delete commands are located in the Cells ribbon grouping on the Home tab.
+
+Question 2: What happens when you set a row height or column width to 0 (zero)?
+
+Answer: If you set a row height or column width to 0 (zero), it will reset to the default width or height.
+
+Question 3: Is there a need to change the height and width in a cell? Why?
+
+Answer: Yes, there is a need to change the height and width in a cell. This is because sometimes the data that you need to enter in a cell may be too long or too wide to fit in the default size. By changing the height and width of the cell, you can ensure that the data is displayed correctly.
+
+Question 4: What is the keyboard shortcut to unhide rows?
+
+Answer: The keyboard shortcut to unhide rows is Ctrl + Shift + 9.
+
+Question 5: How to hide rows containing blank cells?
+
+Answer: To hide rows containing blank cells, you can follow these steps:
+
+1. Select the range that contains empty cells you want to hide.
+2. On the Home tab, in the Editing group, click Find & Select > Go To Special.
+3. In the Go To Special dialog box, select the Blanks radio button, and click OK. This will select all empty cells in the range.
+4. Press Ctrl + 9 to hide the corresponding rows.
+
+Question 6: What are the steps to hide the duplicate values using conditional formatting in Excel?
+
+Answer: To hide the duplicate values using conditional formatting in Excel, you can follow these steps:
+
+Select the range of cells that you want to check for duplicates.
+On the Home tab, in the Styles group, click Conditional Formatting.
+In the Conditional Formatting menu, click New Rule.
+In the New Rule dialog box, select the Format only cells that contain option, and then select duplicate values from the drop-down list.
+Click Format to choose the formatting options that you want to use for the duplicate values.
+Click OK to create the rule.
